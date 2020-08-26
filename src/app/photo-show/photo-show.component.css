@@ -1,0 +1,12 @@
+img {
+  width: 640px;
+  height: 640px;
+}
+
+.container{
+    align-content: center;
+}
+
+.jumbotron jumbotron-fluid{
+    align-content: center;
+}
